@@ -1,0 +1,10 @@
+.InfoBox{
+    text-align: center;
+   
+}
+
+.Weather_card{
+    display: flex;
+    justify-content: center;
+   
+}
